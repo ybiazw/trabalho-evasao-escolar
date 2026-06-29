@@ -1,0 +1,8 @@
+1. JUSTIFICATIVA DE CORES
+A paleta de cores foi selecionada estrategicamente para transmitir seriedade, clareza e credibilidade, evitando distrações visuais que pudessem comprometer a leitura de dados densos e estatísticos sobre a educação.
+- Azul Principal (#0066cc): Utilizado no cabeçalho, rodapé e botões de ação. O azul é psicologicamente associado à confiança, estabilidade, instituições de ensino e ao ambiente corporativo/acadêmico. Oferece excelente contraste com textos brancos.
+- Branco (#ffffff): Cor predominante de fundo (background) das seções e cards de conteúdo. Garante que o layout permaneça "limpo", reduzindo a fadiga visual do usuário.
+- Tons de Cinza Sutil (#f9f9f9, #fafafa e #eee): Utilizados para separar blocos de informações, delimitar caixas de áudio/vídeo e alternar linhas da tabela do glossário (efeito zebra). Evitam o uso de bordas pretas agressivas, mantendo a estética moderna.
+
+2. TIPOGRAFIA
+A tipografia prioriza famílias de fontes sem serifa (Sans-Serif), como Arial ou Helvetica, aplicadas através de herança limpa no CSS. Fontes sem serifa são altamente recomendadas para leitura em telas digitais por não possuírem pequenos traços ornamentais nas extremidades, o que facilita a legibilidade para leitores de todos os níveis de alfabetização digital e melhora a acessibilidade. Os tamanhos e pesos (font-weight: 600 e 700) foram hierarquizados de forma rígida para guiar os olhos do usuário naturalmente dos títulos principais (h1) aos subtítulos (h2) e parágrafos. 

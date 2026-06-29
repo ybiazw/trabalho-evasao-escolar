@@ -1,0 +1,11 @@
+
+NOME DO GRUPO: panpan
+INTEGRANTES: 
+- Beatriz Oliveira de Sá 
+
+TEMA ESCOLHIDO:
+Evasão Escolar no Brasil: Causas, Impactos e Soluções.
+
+INSTRUÇÕES PARA ABRIR O SITE:
+1. Para visualizar localmente: Baixe a pasta completa do projeto, localize o arquivo "index.html" na raiz e dê um duplo clique para abrir em qualquer navegador.
+2. Para visualizar online: Acesse o link publicado no GitHub Pages (disponível no arquivo de entrega do Moodle).
